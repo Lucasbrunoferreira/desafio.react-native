@@ -8,7 +8,8 @@
 
 ## Screenshots
 
+<p>
+  <img src="/.github/screenshots/route.jpeg?raw=true" width="220">
 
-![Rota até o UNIPAM](/.github/screenshots/route.jpeg?raw=true)
-
-![Envio de e-mail](/.github/screenshots/email.jpeg?raw=true)
+   <img src="/.github/screenshots/email.jpeg?raw=true" width="220">
+</p>
